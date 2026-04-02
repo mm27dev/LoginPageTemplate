@@ -1,6 +1,6 @@
 # LoginPageTemplate
 
-## Simple signup & login interface for developers creating applications with Python. 
+## Simple signup & login interface for developers creating applications with Python (backend included).
 
 # To Use 
 
