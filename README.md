@@ -4,4 +4,4 @@
 
 # To Use 
 
-## Type pip install customtkinter into the console
+## Type ```pip install customtkinter``` into the console
